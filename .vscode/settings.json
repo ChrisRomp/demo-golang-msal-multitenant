@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "azcore",
+        "azidentity",
+        "entra",
+        "godotenv",
+        "joho"
+    ],
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressDotnetRestoreNotification": true
+}
